@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou Gabriel</h1>
-<h3 align="center">Sou estudante de ciência da computação e apaixonado por desenvolvimento web. Atualmente, venho estudando ReactJs, Docker e Typescript.</h3>
+<p align="left">Sou estudante de ciência da computação e apaixonado por desenvolvimento web. Atualmente, venho estudando ReactJs e Typescript.</p>
 
 - 🔭 Atualmente estou trabalhando em [Método de ordenação](https://imc-five.vercel.app/)
 
@@ -22,8 +22,8 @@
 </p>
 <h3 align="left">Back end:</h3>
 <p align="left">
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
+ 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmxn&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gabrielmxn" /></p>
