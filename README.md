@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, sou Gabriel</h1>
+<h1 align="left">Gabriel Alves</h1>
 <p align="left">Sou estudante de ciência da computação e apaixonado por desenvolvimento web. Atualmente, venho estudando ReactJs e Typescript.</p>
 
 - 🔭 Atualmente estou trabalhando em [Método de ordenação](https://imc-five.vercel.app/)
