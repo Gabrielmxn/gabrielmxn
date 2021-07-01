@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmxn&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gabrielmxn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmxn&show_icons=true&locale=en&theme=dracula" alt="gabrielmxn" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielmxn&show_icons=true&locale=en&theme=dracula" alt="gabrielmxn" /></p>
