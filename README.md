@@ -26,11 +26,11 @@
  
 </p>
 
-<a align="left" href="https://github.com/gabrielmxn">
+<a align="center" href="https://github.com/gabrielmxn">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmxn&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gabrielmxn" />
 </a>
 
-<a align="center" href="https://github.com/gabrielmxn">
+<a align="left" href="https://github.com/gabrielmxn">
   &nbsp;
   <img  src="https://github-readme-stats.vercel.app/api?username=gabrielmxn&show_icons=true&locale=en&theme=dracula" alt="gabrielmxn" />
 </a>
