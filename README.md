@@ -1,7 +1,7 @@
 <h1 align="left">Gabriel Alves</h1>
-<p align="left">Sou estudante de ciência da computação e apaixonado por desenvolvimento web. Atualmente, venho estudando ReactJs e Typescript.</p>
+<p align="left">Sou formado em ciência da computação e apaixonado por desenvolvimento web. Atualmente, venho estudando NextJs e Typescript.</p>
 
-- 🔭 Atualmente estou trabalhando em [Método de ordenação](https://imc-five.vercel.app/)
+
 
 - 📫 Como me encontrar **gabrielmxn22@gmail.com**
 
