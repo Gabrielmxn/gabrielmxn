@@ -26,13 +26,4 @@
 <a href="https://fb.com/gabrielsialves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabrielsialves" height="30" width="40" /></a>
 </p>
 
-<a align="center" href="https://github.com/gabrielmxn">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmxn&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gabrielmxn" />
-</a>
 
-
-
-<a align="left" href="https://github.com/gabrielmxn">
-  &nbsp;
-  <img  src="https://github-readme-stats.vercel.app/api?username=gabrielmxn&show_icons=true&locale=en&theme=dracula" alt="gabrielmxn" />
-</a>
