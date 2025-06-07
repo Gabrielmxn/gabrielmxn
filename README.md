@@ -4,7 +4,7 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Context API, Hooks, SCSS, A11Y
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Context API, Hooks, SCSS
 - **Backend:** Node.js, Fastify, Express, Prisma, API REST, TDD, DDD
 - **Banco de Dados:** PostgreSQL, MySQL, SQL Server, SQLite
 - **DevOps & Infra:** Docker, GitHub Actions, Azure, CI/CD, Monitoramento de Rede
